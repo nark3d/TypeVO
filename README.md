@@ -1,0 +1,2 @@
+# TypeVO
+Typescript Value Objects
