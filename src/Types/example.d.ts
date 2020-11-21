@@ -2,7 +2,7 @@
  * If you import a dependency which does not include its own type definitions,
  * TypeScript will try to find a definition for it by following the `typeRoots`
  * compiler option in tsconfig.json. For this project, we've configured it to
- * fall back to this folder if nothing is found in node_modules/@types.
+ * fall back to this folder if nothing is found in node_modules/@Types.
  *
  * Often, you can install the DefinitelyTyped
  * (https://github.com/DefinitelyTyped/DefinitelyTyped) type definition for the
